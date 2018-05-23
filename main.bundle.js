@@ -77,14 +77,12 @@ var AboutMeComponent = /** @class */ (function () {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__about_me_about_me_component__ = __webpack_require__("./src/app/about-me/about-me.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__blog_blog_component__ = __webpack_require__("./src/app/blog/blog.component.ts");
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__projects_projects_component__ = __webpack_require__("./src/app/projects/projects.component.ts");
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__home_home_component__ = __webpack_require__("./src/app/home/home.component.ts");
 var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
-
 
 
 
@@ -101,7 +99,7 @@ var routes = [
         path: 'blog', component: __WEBPACK_IMPORTED_MODULE_3__blog_blog_component__["a" /* BlogComponent */]
     },
     {
-        path: '', component: __WEBPACK_IMPORTED_MODULE_5__home_home_component__["a" /* HomeComponent */]
+        path: '', component: __WEBPACK_IMPORTED_MODULE_2__about_me_about_me_component__["a" /* AboutMeComponent */]
     }
 ];
 var AppRoutingModule = /** @class */ (function () {
