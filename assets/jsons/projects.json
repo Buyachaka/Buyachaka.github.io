@@ -1,0 +1,6 @@
+{
+"project":"Online Logo Maker",
+"date": "20/04/2016 - Present",
+"Job":"My work on this app consists of constantly implement new solutions to the changing trends. The app is very up to date and uses AngularJS as it's front-end and a php back-end server. The server side has been re-written a couple of times, the newest iteration it takes cares of the whole server using a single Node.js server which does all the I/O for the user files.",
+"picture" : ""
+}
