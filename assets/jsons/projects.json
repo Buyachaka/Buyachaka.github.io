@@ -1,6 +1,9 @@
+
 {
-"project":"Online Logo Maker",
-"date": "20/04/2016 - Present",
-"Job":"My work on this app consists of constantly implement new solutions to the changing trends. The app is very up to date and uses AngularJS as it's front-end and a php back-end server. The server side has been re-written a couple of times, the newest iteration it takes cares of the whole server using a single Node.js server which does all the I/O for the user files.",
-"picture" : ""
+"projects": [
+{"image":"assets/imgs/olm_screen.png", "text":"My work on this app consists of constantly implement new solutions to the changing trends. The app is very up to date and uses AngularJS as its front-end and a php back-end server. The server side has been re-written a couple of times, the newest iteration it takes cares of the whole server using a single Node.js server which does all the I/O for the user files.","title":"Online Logo Maker"},
+{"image":"assets/imgs/agario.jpg",     "text":"Uploaded a small Agario server to a test Heroku App. I have modified it a little bit but not much, it will come!","title":"AgarIO Private Server"},
+{"image":"assets/imgs/Patagonia.jpg",  "text":"I received a proposal to work in Montevideo on a game development company, I stayed there for 2 years working on 12 different games using Canvas and an JS API called CraftyJS, that also included a backend using Java, I started as a junior developer and got up to mid-senior.","title":"Patagonia Entertaiment"},
+{"image":"assets/imgs/fov.jpg",        "text":"Fight for Valhalla is a rapid-paced 3rd person hack-n-slash that takes place in Helheim, the “hell” of Nordic Mythology. You play as Vigarr, a Viking who died an unworthy death and must now prove himself by fighting waves of skeletons, giants, and more to prove he is worthy of Valhalla. My main work was on AI and animations.","title":"Fight For Valhalla"}
+]
 }
